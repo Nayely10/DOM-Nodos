@@ -1,0 +1,22 @@
+Nodos = Manipulacion de elementos              Eventos=Aciones que se realizan con los elementos
+Funciones de los Nodos
+
+* seleccionara elementos
+    + query Selector()
+    + query Selector all()
+
+* Crear elementos
+    + create Element()
+    + create TextNode()
+
+* Agregar elementos dentro de otras
+    +Append Childc()
+
+*Agregar atributos
+    +setAttribute()
+
+*Eliminar un elemento
+    + remove()
+
+*Ubicar un elemento en html
+    +inser tAdjacent Element()
